@@ -1,34 +1,7 @@
-.bg-header {
-	background-color: #66FFC4
-;
+.bg-bluish {
+	background-color: #ecf7fc;
 }
 
-.div-bg1 {
-	border-style: solid;
-	border-color: #a1ff66;
-}
-
-.div-bg2 {
-	border-style: solid;
-	border-color: #c466ff;
-}
-
-.div-bg3 {
-	border-style: solid;
-	border-color: #ff66a1;
-}
-
-.div-bg4 {
-	border-style: solid;
-	border-color: #ffc466;
-}
-
-.div-bg5 {
-	border-style: solid;
-	border-color: #ff7866;
-}
-
-.div-bg6 {
-	border-style: solid;
-	border-color: #66ff78;
+.bluish {
+	color: #6689cd;
 }
